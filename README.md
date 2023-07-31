@@ -28,5 +28,22 @@ Functionalities ⬇️
 
 • The web application ensures efficient access for all users, allowing them to swiftly navigate through the system's features.
 
+Tech Stack 🧑‍💻
+React
+Tailwind CSS
+Node/Express.js
+MongoDB
+
+
+ScreenShots 😎
+Landing Page ⚡
 
 ![Screenshot (51)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/468b5ad1-145d-45cc-b47c-733ee1a60091)
+
+Login Page ⚡
+![Screenshot (52)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/bf8e0f10-8c6f-40c2-9e62-456c992a75c2)
+
+Register Page ⚡
+![Screenshot (53)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/6c1e349c-666e-448b-9976-55f5075290df)
+
+
