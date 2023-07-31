@@ -49,7 +49,13 @@ Login Page ⚡
 Register Page ⚡
 ![Screenshot (53)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/6c1e349c-666e-448b-9976-55f5075290df)
 
-Register Page ⚡
+Student Page ⚡
+![Screenshot (58)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/4d384818-4cdf-4255-a2d1-badec2115a61)
+
+Teacher Page ⚡
+![Screenshot (63)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/025dffb2-132f-44ca-8575-f7d56a0a25de)
+
+Admin Page ⚡
 ![Screenshot (55)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/ab0924fb-947f-40a9-a480-d5d23eeb9dc4)
 
 
