@@ -40,10 +40,17 @@ Landing Page ⚡
 
 ![Screenshot (51)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/468b5ad1-145d-45cc-b47c-733ee1a60091)
 
+![Screenshot (66)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/e2c93141-76f6-432b-9d8a-1c338517ed2c)
+
+
 Login Page ⚡
 ![Screenshot (52)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/bf8e0f10-8c6f-40c2-9e62-456c992a75c2)
 
 Register Page ⚡
 ![Screenshot (53)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/6c1e349c-666e-448b-9976-55f5075290df)
+
+Register Page ⚡
+![Screenshot (55)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/ab0924fb-947f-40a9-a480-d5d23eeb9dc4)
+
 
 
