@@ -32,16 +32,13 @@ Functionalities ⬇️
 Tech Stack 🐱‍👤🐱‍👤
 
 React
-
 Tailwind CSS
-
 Node/Express.js
-
 MongoDB
 
 
-ScreenShots 😎
 
+ScreenShots 😎
 
 Landing Page ⚡
 
