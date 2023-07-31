@@ -20,6 +20,8 @@ Objectives ⭐
 • Improved User Experience: With simplified
 
 Functionalities ⬇️
+
+
 • The web application serves as a platform for students, stakeholders, and faculty members of the educational organization to register their complaints and track their progress. It offers a secure login interface for authorized users.
 
 • Users can easily register by completing a form that collects their personal details and uses valid email IDs provided by the organization. After successful registration, they can log in using their registered email ID and password.Upon logging in, users are presented with a personalized dashboard that provides them with various options. They can access a complaint form to lodge new complaints and monitor the status of their existing complaints.
@@ -29,6 +31,8 @@ Functionalities ⬇️
 • The web application ensures efficient access for all users, allowing them to swiftly navigate through the system's features.
 
 Tech Stack 🧑‍💻
+
+
 React
 Tailwind CSS
 Node/Express.js
@@ -36,26 +40,34 @@ MongoDB
 
 
 ScreenShots 😎
+
+
 Landing Page ⚡
 
 ![Screenshot (51)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/468b5ad1-145d-45cc-b47c-733ee1a60091)
+
 
 ![Screenshot (66)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/e2c93141-76f6-432b-9d8a-1c338517ed2c)
 
 
 Login Page ⚡
+
 ![Screenshot (52)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/bf8e0f10-8c6f-40c2-9e62-456c992a75c2)
 
 Register Page ⚡
+
 ![Screenshot (53)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/6c1e349c-666e-448b-9976-55f5075290df)
 
 Student Page ⚡
+
 ![Screenshot (58)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/4d384818-4cdf-4255-a2d1-badec2115a61)
 
 Teacher Page ⚡
+
 ![Screenshot (63)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/025dffb2-132f-44ca-8575-f7d56a0a25de)
 
 Admin Page ⚡
+
 ![Screenshot (55)](https://github.com/rishul25/College-Grevience-Mern-Stack/assets/85450019/ab0924fb-947f-40a9-a480-d5d23eeb9dc4)
 
 
