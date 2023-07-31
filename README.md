@@ -32,8 +32,11 @@ Functionalities ⬇️
 Tech Stack 🐱‍👤🐱‍👤
 
 React
+
 Tailwind CSS
+
 Node/Express.js
+
 MongoDB
 
 
