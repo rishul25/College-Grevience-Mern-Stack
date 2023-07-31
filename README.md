@@ -21,7 +21,6 @@ Objectives ⭐
 
 Functionalities ⬇️
 
-
 • The web application serves as a platform for students, stakeholders, and faculty members of the educational organization to register their complaints and track their progress. It offers a secure login interface for authorized users.
 
 • Users can easily register by completing a form that collects their personal details and uses valid email IDs provided by the organization. After successful registration, they can log in using their registered email ID and password.Upon logging in, users are presented with a personalized dashboard that provides them with various options. They can access a complaint form to lodge new complaints and monitor the status of their existing complaints.
@@ -30,8 +29,7 @@ Functionalities ⬇️
 
 • The web application ensures efficient access for all users, allowing them to swiftly navigate through the system's features.
 
-Tech Stack 🧑‍💻
-
+Tech Stack 🐱‍👤🐱‍👤
 
 React
 Tailwind CSS
